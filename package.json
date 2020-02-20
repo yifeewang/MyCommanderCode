@@ -1,0 +1,53 @@
+{
+  "name": "MyCommanderCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "MyCommanderCode": "download.js"
+  },
+  "dependencies": {
+    "_lodash@4.17.15@lodash": "^4.17.15",
+    "_mute-stream@0.0.8@mute-stream": "^0.0.8",
+    "_restore-cursor@3.1.0@restore-cursor": "^3.1.0",
+    "_run-async@2.3.0@run-async": "^2.3.0",
+    "_rxjs@6.5.4@rxjs": "^6.5.4",
+    "_string-width@4.2.0@string-width": "^4.2.0",
+    "_strip-ansi@5.2.0@strip-ansi": "^5.2.0",
+    "_strip-ansi@6.0.0@strip-ansi": "^6.0.0",
+    "_supports-color@5.5.0@supports-color": "^5.5.0",
+    "_through@2.3.8@through": "^2.3.8",
+    "_tmp@0.0.33@tmp": "^0.0.33",
+    "_tslib@1.10.0@tslib": "^1.10.0",
+    "_type-fest@0.8.1@type-fest": "^0.8.1",
+    "ansi-styles": "^4.2.1",
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "inquire": "^0.4.8",
+    "lodash": "^4.17.15",
+    "ora": "^4.0.3",
+    "run-async": "^2.3.0",
+    "rxjs": "^6.5.4",
+    "string-width": "^4.2.0",
+    "through": "^2.3.8",
+    "tmp": "^0.0.33",
+    "tslib": "^1.10.0",
+    "type-fest": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wyf": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifeewang/MyCommanderCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yifeewang/MyCommanderCode/issues"
+  },
+  "homepage": "https://github.com/yifeewang/MyCommanderCode#readme"
+}
